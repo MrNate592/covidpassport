@@ -1,5 +1,5 @@
 # COVID-19 Vaccine Passport Creator
-This program is a web application built using Python and the Flask web framework that allows users to create, view, search, update, and delete records of individuals who have received the COVID-19 vaccine. The program also allows users to create a vaccine passport for each individual in the form of a PDF document.
+This program is a web application built using Python that allows users to create, view, search, update, and delete records of individuals who have received the COVID-19 vaccine. The program also allows users to create a vaccine passport for each individual in the form of a JPG image.
 
 # Features
 1. Add new individuals to the vaccine database
